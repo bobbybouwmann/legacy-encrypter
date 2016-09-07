@@ -1,16 +1,11 @@
 {
-    "name": "laravel/legacy-encrypter",
-    "description": "The legacy version of the Laravel mcrypt encrypter.",
+    "name": "bobbybouwmann/legacy-encrypter",
+    "description": "The legacy version of the Laravel mcrypt encrypter (for 5.1 - 5.3).",
     "license": "MIT",
-    "homepage": "http://laravel.com",
-    "support": {
-        "issues": "https://github.com/laravel/framework/issues",
-        "source": "https://github.com/laravel/framework"
-    },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Bobby Bouwmann",
+            "email": "bobbybouwmann@gmail.com"
         }
     ],
     "require": {
